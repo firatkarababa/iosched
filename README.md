@@ -19,7 +19,7 @@ The app also displays a map of the venue and shows informational pages to guide
 attendees during the conference.
 
 <div>
-  <img align="center" src="schedule.png" alt="Schedule screenshot">
+  <img align="center" src="schedule.png" alt="Schedule screenshot" height="640" width="360">
 </div>
 
 # Development Environment
@@ -100,7 +100,7 @@ enhanced functionality provided by
 [Android Ktx extensions](https://developer.android.com/kotlin/ktx).
 
 
-#Copyright
+# Copyright
 
     Copyright 2014 Google Inc. All rights reserved.
 
